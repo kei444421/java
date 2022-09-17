@@ -1,0 +1,22 @@
+java FizzBuzz 15
+
+
+
+args[0]　⇒　"15"
+
+
+max ⇒　15
+result ⇒ "Buzz"
+
+For
+ i ⇒　4
+ i < max
+ ↓　　↓
+ 4 < 15
+
+num ⇒　5
+
+
+
+出力
+1 2 Fizz 4 Buzz 
